@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Plugins Based on Minestom**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **Minecraft Development**
 
