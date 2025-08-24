@@ -3,17 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codris-exe&label=Profile%20views&color=0e75b6&style=flat" alt="codris-exe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codris-exe" alt="codris-exe" /></a> </p>
-
-- 🔭 I’m currently working on **Plugins Based on Minestom**
-
-- 🌱 I’m currently learning **AI**
-
-- 👯 I’m looking to collaborate on **Minecraft Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Codris-exe?tab=repositories](https://github.com/Codris-exe?tab=repositories)
-
-- 📫 How to reach me **codris1@outlook.com**
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [MyPortfolio](http://rishab-gupta.netlify.app/)
+* ✉️  You can contact me at [rishab1928@outlook.com](mailto:rishab1928@outlook.com)
+* 🧠  I'm currently learning C, C++
+* 👥  I'm looking to collaborate on interesting projects
+* 💬  Ask me about I'm Batman don't tell anyone
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
