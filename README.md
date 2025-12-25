@@ -8,7 +8,7 @@ I'm a software engineer specializing in Minecraft plugin development, web develo
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://rishab-gupta.netlify.app/)
 * ✉️  You can contact me at [rishab1928@outlook.com](mailto:rishab1928@outlook.com)
-* 🧠  I'm currently learning C, C++
+* 🧠  I'm currently learning DSA in C++
 * 👥  I'm looking to collaborate on interesting projects
 * 💬  Ask me about I'm Batman don't tell anyone
 
